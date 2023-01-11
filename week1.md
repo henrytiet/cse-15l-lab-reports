@@ -43,5 +43,3 @@ ls -lat        -try this command out
 ```
 When using ls -lat, you should see the following output:
 ![image](https://user-images.githubusercontent.com/97487846/211931126-0f7c1b43-525b-4991-ba7a-1a67ad64aa2e.png)
-
-![Image](file:///Users/henry/Desktop/Screen%20Shot%202023-01-11%20at%202.08.20%20PM.png)
