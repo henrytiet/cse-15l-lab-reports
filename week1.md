@@ -1,13 +1,3 @@
-
-
-Overall, make sure you have at least 3 screenshots, one for each of the steps below
-For each step include 2-3 sentences or bullet points describing what you did. 
-
-
-Installing VScode
-Remotely Connecting
-Trying Some Commands
-
 # How to use VSCode to remotely connect to the ieng6 servers
 
 ## Installing VSCode
