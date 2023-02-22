@@ -13,7 +13,7 @@
 <img width="1440" alt="Screenshot 2023-02-22 at 2 16 18 PM" src="https://user-images.githubusercontent.com/97487846/220773284-33068b27-3a7d-45eb-8718-3f5eb8817eb6.png">
 
 <img width="1440" alt="Screenshot 2023-02-22 at 2 17 22 PM" src="https://user-images.githubusercontent.com/97487846/220773281-126bcdcd-bc5e-4c6b-90ef-72c45b89a6fb.png">
-Copying the SSH path, for **Step 5**
+Copying the SSH path, for **Step** **5**
 
 ## Step 3
 **The real deal** Start the timer!
