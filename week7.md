@@ -31,7 +31,9 @@ Log into ieng6
 Clone your fork of the repository from your Github account
 
 <img width="1552" alt="Screenshot 2023-02-22 at 2 18 22 PM" src="https://user-images.githubusercontent.com/97487846/220773273-7f06507a-d275-44f7-8b39-7c3870de777b.png">
-$ git clone <Ctrl+V>
+$ git clone 
+
+<Ctrl+V>
 Clipboard contains the SSH url
 
 ## Step 6
@@ -56,17 +58,10 @@ I typed the full length of the command here.
 Run the tests, demonstrating that they now succeed
 
 <img width="1552" alt="Screenshot 2023-02-22 at 2 19 50 PM" src="https://user-images.githubusercontent.com/97487846/220773257-b0492722-3765-4261-8e38-07b266e65178.png">
-I reused the compile commands in my history by using 
-
-<up><up><up><enter> to compile and then 
-
-<up><up><up><enter> to run the JUnit tests
+I reused the compile commands in my history by using <up><up><up><enter> to compile and then <up><up><up><enter> to run the JUnit tests
 
 ## Step 9
 Commit and push the resulting change to your Github account (you can pick any commit message!)
 
 <img width="1552" alt="Screenshot 2023-02-22 at 2 20 16 PM" src="https://user-images.githubusercontent.com/97487846/220773237-cc1f5d24-acbd-47ec-b90a-7c7d635a221b.png">
 
-When typing the commit line, I wrote git commit -m "Li
-  <tab><enter>
-which autofilled to "ListExamples.java"
