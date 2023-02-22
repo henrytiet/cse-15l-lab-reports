@@ -8,3 +8,5 @@ You can find my lab reports here:
 [Week 3](https://henrytiet.github.io/cse-15l-lab-reports/week3.html)
 
 [Week 5](https://henrytiet.github.io/cse-15l-lab-reports/week5.html)
+
+[Week 7](https://henrytiet.github.io/cse-15l-lab-reports/week7.html)
